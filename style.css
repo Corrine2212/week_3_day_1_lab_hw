@@ -39,14 +39,14 @@ body {
   }
   
   /* Article styles */
-  body > main > article {
+  article {
     margin: auto;
-    width: 70%;
+    width: 80%;
   }
   
   .comments {
     margin: auto;
-    width: 70%;
+    width: 80%;
   }
 
   .text-box {
@@ -56,7 +56,6 @@ body {
   
   body > main > section > div {
     margin: auto;
-    width: 80%;
   }
   
   /* Image styles */
