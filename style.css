@@ -1,0 +1,88 @@
+/* Reset styles */
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  /* Footer styles */
+  body > footer {
+    background-color: dodgerblue;
+    border: solid dodgerblue;
+  }
+  
+  body > footer > p {
+    padding: 15px;
+    color: white;
+    text-align: center;
+  }
+  
+  /* Header styles */
+  body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding-bottom: 10px;
+  }
+  
+  #logo {
+    padding: 15px;
+    margin: 0;
+    font-family: "Fredoka one", sans-serif;
+  }
+  
+  /* Navigation styles */
+  .main-nav > ul {
+    list-style: none;
+  }
+  
+  .main-nav > ul > li > a {
+    color: white;
+  }
+  
+  /* Article styles */
+  body > main > article {
+    margin: auto;
+    width: 70%;
+  }
+  
+  .comments {
+    margin: auto;
+    width: 70%;
+  }
+
+  .text-box {
+    margin: auto;
+    width: 100%;
+  }
+  
+  body > main > section > div {
+    margin: auto;
+    width: 80%;
+  }
+  
+  /* Image styles */
+  img {
+    width: 260px;
+    height: auto;
+  }
+  
+  section > div > img {
+    width: 150px;
+    height: auto;
+  }
+  
+  /* Form styles */
+  label {
+    display: inline-block;
+    width: 85px;
+    padding: 5px;
+  }
+  
+  .submit {
+    margin-bottom: 20px;
+    text-align: right;
+  }
+  
+  .login-button {
+    padding: 5px;
+  }
+  
